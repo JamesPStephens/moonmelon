@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1b05096.chunk.css",
+    "main.js": "/static/js/main.22ba58b1.chunk.js",
+    "main.js.map": "/static/js/main.22ba58b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c196efb1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c196efb1.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.dc445428.chunk.js": "/static/js/2.dc445428.chunk.js",
+    "static/js/2.dc445428.chunk.js.map": "/static/js/2.dc445428.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3260fd32b4ffe4c6d3723306c29492f2.js": "/precache-manifest.3260fd32b4ffe4c6d3723306c29492f2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.dc445428.chunk.js.LICENSE.txt": "/static/js/2.dc445428.chunk.js.LICENSE.txt",
+    "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg": "/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.0f3514a4.svg",
+    "static/media/Frame 1.svg": "/static/media/Frame 1.a967ea2a.svg",
+    "static/media/Frame 2.svg": "/static/media/Frame 2.db841a6f.svg",
+    "static/media/video.mp4": "/static/media/video.95793bf1.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c196efb1.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.dc445428.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.22ba58b1.chunk.js"
+  ]
+}
