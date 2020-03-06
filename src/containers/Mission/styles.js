@@ -1,20 +1,23 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-  background-color: rgba(18, 18, 18, 1);
   .mission_container {
     height: 100vh;
+    text-align: center;
+    background-color: #121212;
     h1 {
       color: #c6d65b;
     }
-    h5 {
+    h3 {
       color: white;
-      margin: 0% 25%;
-      width: 50%;
       line-height: 140%;
+      font-family: Rounded-Thin !important;
     }
     img {
       margin-top: 16px;
+    }
+    hr {
+      background-color: black;
     }
   }
 `;

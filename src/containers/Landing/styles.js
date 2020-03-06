@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-  background-color: rgba(18, 18, 18, 1);
+  background-color: #35394d;
   .container-fluid {
     height: 100vh !important;
     color: white;
@@ -10,7 +10,14 @@ export const Wrapper = styled.div`
     top: 0;
     left: 0;
     z-index: 10;
-    background-color: rgba(18, 18, 18, 0.75);
+    text-align: center;
+    .display-3 {
+      margin-right: 5%;
+    }
+    h1 {
+      color: #c6d65b;
+      font-size: 3.5rem;
+    }
     .flipped {
       -moz-transform: scale(1, -1);
       -webkit-transform: scale(1, -1);
@@ -18,16 +25,12 @@ export const Wrapper = styled.div`
       -ms-transform: scale(1, -1);
       transform: scale(1, -1);
       unicode-bidi: bidi-override;
-      direction: rtl;
+       direction: rtl;
+      margin-left: 5%;
     }
     .lead {
       font-style: normal;
-    }
-  }
-  .jumbotron {
-    background-color: unset;
-    h1 {
-      color: #c6d65b;
+      font-family: Rounded-Thin !important;
     }
   }
 `;

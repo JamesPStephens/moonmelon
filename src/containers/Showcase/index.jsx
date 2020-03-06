@@ -1,8 +1,8 @@
 import React from 'react';
 import { Container, Fade } from 'reactstrap';
 import * as S from './styles';
-import splash from '../../assets/Frame 1.svg';
-import feed from '../../assets/Frame 2.svg';
+import splash from '../../assets/images/Frame 1.svg';
+import feed from '../../assets/images/Frame 2.svg';
 
 const Showcase = () => {
   return (

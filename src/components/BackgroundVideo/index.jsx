@@ -1,5 +1,5 @@
 import React from 'react';
-import night from '../../assets/video.mp4';
+import night from '../../assets/videos/video.mp4';
 import * as S from './styles';
 
 const BackgroundVideo = () => {

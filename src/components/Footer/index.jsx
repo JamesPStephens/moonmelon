@@ -5,31 +5,26 @@ import * as S from './styles';
 const Footer = () => {
   return (
     <S.Wrapper className="shadow">
-      <Container className="footer_container text-center">
-        <Row>
-          <Col md="12">
-            <ul>
-              <li className="list-unstyled">
-                <a href="#!">Instagram</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Twitter</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="#!">Privacy Policy</a>
-              </li>
-            </ul>
-          </Col>
-        </Row>
+      <Container
+        fluid
+        className="footer_container d-flex flex-column justify-content-center"
+      >
+        <div className="d-flex flex-column align-items-center justify-content-center">
+          <div className="social">
+            <a href="">Instagram</a>
+            <a href="#">Twitter</a>
+            <a href="https://linkedin.com/company/moonmelon-io">
+              Linkedin
+            </a>
+          </div>
+          <div className="copyright">
+            <p>
+              &copy; {new Date().getFullYear()} Copyright{' '}
+              <a href="https://www.moonmelon.io">moonmelon.io</a>
+            </p>
+          </div>
+        </div>
       </Container>
-      <div className="footer_copyright text-center py-3">
-        <Container>
-          <p>
-            &copy; {new Date().getFullYear()} Copyright{' '}
-            <a href="https://www.moonmelon.io">moonmelon.io</a>
-          </p>
-        </Container>
-      </div>
     </S.Wrapper>
   );
 };
