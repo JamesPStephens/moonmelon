@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db3ed66c.chunk.css",
+    "main.js": "/static/js/main.2e0d6f96.chunk.js",
+    "main.js.map": "/static/js/main.2e0d6f96.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c196efb1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c196efb1.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.1cd8cf5f.chunk.js": "/static/js/2.1cd8cf5f.chunk.js",
+    "static/js/2.1cd8cf5f.chunk.js.map": "/static/js/2.1cd8cf5f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7c7d745ca4720099313165d6f0da8667.js": "/precache-manifest.7c7d745ca4720099313165d6f0da8667.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.db3ed66c.chunk.css.map": "/static/css/main.db3ed66c.chunk.css.map",
+    "static/js/2.1cd8cf5f.chunk.js.LICENSE.txt": "/static/js/2.1cd8cf5f.chunk.js.LICENSE.txt",
+    "static/media/Arial-Rounded-MT-Bold.ttf": "/static/media/Arial-Rounded-MT-Bold.200135e8.ttf",
+    "static/media/Arial-Rounded-MT-Thin.ttf": "/static/media/Arial-Rounded-MT-Thin.9285faec.ttf",
+    "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg": "/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.0f3514a4.svg",
+    "static/media/Frame 1.svg": "/static/media/Frame 1.a967ea2a.svg",
+    "static/media/Frame 2.svg": "/static/media/Frame 2.db841a6f.svg",
+    "static/media/moonmelon.svg": "/static/media/moonmelon.a858bb7e.svg",
+    "static/media/video.mp4": "/static/media/video.95793bf1.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c196efb1.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.1cd8cf5f.chunk.js",
+    "static/css/main.db3ed66c.chunk.css",
+    "static/js/main.2e0d6f96.chunk.js"
+  ]
+}
